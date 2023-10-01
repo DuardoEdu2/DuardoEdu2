@@ -8,6 +8,9 @@ Atualmente Sou um estudante de BTI da UFERSA, a minha engenharia de escolha é a
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuardoEdu2&layout=compact&theme=dracula"/>
 </div>
 
+##
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](gmailto:eduardopabrantes@gmail.com)
+
 ### Linguagens e Code Editors preferidos
 As liguagens de programação que eu tenho mais conhecimento são:
 
