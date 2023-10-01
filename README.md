@@ -1,6 +1,13 @@
 ### 👋Olá, Meu nome é Eduardo💻✨
 Atualmente Sou um estudante de BTI da UFERSA, a minha engenharia de escolha é a de software mas tenho interesse em diversos assuntos como IA, segureança da informação, robotica  entre outros.🔭 
 
+### Stats
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuardoEdu2&show_icons=true&theme=dracula&include_all_commits&cont_private=true"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuardoEdu2&layout=compact&theme=dracula"/>
+</div>
+
 ### Linguagens e Code Editors preferidos
 As liguagens de programação que eu tenho mais conhecimento são:
 
@@ -12,3 +19,15 @@ Já as linguagens que eu tenho mais vontade de conhecer são:
 
 Em geral, para trabalhar seja com qualquer linguagem, eu uso ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 eu gosto muito da sua interface e sou familiarizado tanto com as configurações como suas ferramentas, porém, há outros habientes de trabalho que eu uso:
+
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ➡️ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ➡️ ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ➡️ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+
+
+
+
