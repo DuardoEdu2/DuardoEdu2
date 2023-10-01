@@ -5,7 +5,7 @@ Atualmente Sou um estudante de BTI da UFERSA, a minha engenharia de escolha é a
 
 <div>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=DuardoEdu2&show_icons=true&theme=dracula&include_all_commits&cont_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuardoEdu2&layout=compact&theme=dracula"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuardoEdu2&layout=compact&theme=dracula"/>
 </div>
 
 ##
