@@ -4,8 +4,8 @@ Atualmente Sou um estudante de BTI da UFERSA, a minha engenharia de escolha é a
 ### Stats
 
 <div>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DuardoEdu2&show_icons=true&theme=dracula&include_all_commits&cont_private=true"/>
-<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuardoEdu2&layout=compact&theme=dracula"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DuardoEdu2&show_icons=true&theme=dark&include_all_commits&cont_private=true"/>
+<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuardoEdu2&layout=compact&theme=dark"/>
 </div>
 
 ##
